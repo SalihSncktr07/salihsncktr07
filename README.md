@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Product Project](https://github.com/salihprnz07/Product_Project)
 
-- 🌱 I’m currently learning **API, Go, Python, C**
+- 🌱 I’m currently learning **API, Go, C, Python**
 
 - 👯 I’m looking to collaborate on [Go Basic Information's](https://github.com/salihprnz07/GO_fundamentals)
 
