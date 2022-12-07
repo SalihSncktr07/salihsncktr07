@@ -2,7 +2,7 @@
 
 <h1 align="center"><br>Hi I'm Salih! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h1>
 <h3 align="center">I mostly deal with backend, my main job is Go and C languages and Ecole 42 Im a students</h3>
-<img align="right" alt="Coding" width="350" src="https://25.media.tumblr.com/tumblr_m3biyv0ofs1qinmdwo1_500.gif">
+<img align="right" alt="Coding" width="380" src="https://25.media.tumblr.com/tumblr_m3biyv0ofs1qinmdwo1_500.gif">
 <p align="left"><img src="https://badge.mediaplus.ma/colorfulwaves/spirnaz?UM6P=off"/></p>
 
 - 🔭 I’m currently working on [Product Project](https://github.com/salihprnz07/Product_Project)
