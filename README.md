@@ -32,5 +32,5 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihprnz07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="salihprnz07" /></p>
 -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salihprnz07&show_icons=true&theme=tokyonight" alt="salihprnz07" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=salihprnz07&show_icons=true&theme=tokyonight" alt="salihprnz07" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&&theme=tokyonight" alt="salihprnz07" /></p>
