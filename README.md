@@ -34,3 +34,5 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=salihprnz07&show_icons=true&theme=tokyonight" alt="salihprnz07" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&&theme=tokyonight" alt="salihprnz07" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=salihprnz07&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
