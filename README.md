@@ -5,9 +5,9 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img align="right" src="https://badge42.vercel.app/api/v2/clbdiln0800060fmddtd464g0/stats?cursusId=21&coalitionId=231" alt="spirnaz's 42 stats" /></a>
 
 <p align="left"><img src="https://badge.mediaplus.ma/colorfulwaves/spirnaz?UM6P=off"/></p>
--->
 
 <h2 align="center"><br>I mostly deal with backend, my main job is Go and C languages and Ecole 42 Im a students<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h2>
+-->
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/spirnaz?1337Badge=off&UM6P=off" alt="spirnaz's 42 stats" /></a>
 
 
