@@ -24,6 +24,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&&theme=tokyonight" alt="salihprnz07" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=salihprnz07&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
+<!--
 <p align="right">
 	<img alt="Salih's stars" src="https://img.shields.io/github/stars/salihprnz07" />
 </p>
+-->
