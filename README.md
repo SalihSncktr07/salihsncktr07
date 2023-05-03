@@ -21,8 +21,8 @@
 -->
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salihprnz07&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&theme=radical" />
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=salihprnz07&show_icons=true&theme=radical" />
+  <img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&theme=radical" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=salihprnz07&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
