@@ -1,4 +1,6 @@
-<!-- <img align="center" alt="Coding" width="1500" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif"> -->
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Salih%20Pırnaz&width=1200&height=300)](https://github.com/ogulcan-dev)
+
+<!-- <img align="center" alt="Coding" width="1500" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23BB9D&background=FFFFFF00&multiline=true&width=435&lines=Hi+I'm+Salih!+Welcome+to+my+github" alt="Typing SVG" /></a>
 
 <!--
@@ -22,3 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihprnz07&&theme=tokyonight" alt="salihprnz07" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=salihprnz07&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
+<p align="right">
+	<img alt="Salih's stars" src="https://img.shields.io/github/stars/salihprnz07" />
+</p>
