@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Salih%20Pırnaz&width=1200&height=300)](https://github.com/salihsncktr07)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Salih%20SANCAKTAR&width=1200&height=300)](https://github.com/salihsncktr07)
 
 <!-- <img align="center" alt="Coding" width="1500" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23BB9D&background=FFFFFF00&multiline=true&width=435&lines=Hi+I'm+Salih!+Welcome+to+my+github" alt="Typing SVG" /></a>
