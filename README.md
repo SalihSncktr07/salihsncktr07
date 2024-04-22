@@ -28,7 +28,7 @@
   <img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=salihsncktr07&theme=radical" />
 </p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/spirnaz?1337Badge=off&UM6P=off" alt="spirnaz's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/sasanca?1337Badge=off&UM6P=off" alt="sasanca's 42 stats" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=salihsncktr07&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
 <!--
